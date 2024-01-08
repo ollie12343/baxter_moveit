@@ -1,0 +1,10 @@
+sudo apt update
+
+sudo apt upgrade
+
+sudo apt-get install nano
+
+sudo apt install pyqt5-dev-tools
+
+chmod -R +x .
+
