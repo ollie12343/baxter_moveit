@@ -8,3 +8,4 @@ sudo apt install pyqt5-dev-tools
 
 chmod -R +x .
 
+./make
