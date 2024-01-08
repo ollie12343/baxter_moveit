@@ -8,6 +8,10 @@ sudo apt install pyqt5-dev-tools
 
 chmod -R +x .
 
+sudo rosdep init
+
+sudo rosdep fix-permissions
+
 rosdep update --rosdistro kinetic
 
 ./make
